@@ -1,0 +1,8 @@
+Recibo de Pagamento
+
+Veículo: PAI-2270
+Entrada: 2024-10-18 14:27:14
+Saída: 2024-10-18 14:30:18
+Total a Pagar: R$0.26
+
+Escaneie o QR Code para pagamento via PIX.

@@ -1,0 +1,8 @@
+Recibo de Pagamento
+
+Veículo: PAY-7022
+Entrada: 2024-05-17 16:46:23
+Saída: 2024-05-17 16:46:32
+Total a Pagar: R$0.01
+
+Escaneie o QR Code para pagamento via PIX.
